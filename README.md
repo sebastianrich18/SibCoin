@@ -1,11 +1,8 @@
-# 🏗 Scaffold-ETH
+# 🏗 SibCion
 
-> everything you need to build on Ethereum! 🚀
+> An ERC20 Token on the rinkeby test-net! 🚀
 
-🧪 Quickly experiment with Solidity using a frontend that adapts to your smart contract:
-
-![image](https://user-images.githubusercontent.com/2653167/124158108-c14ca380-da56-11eb-967e-69cde37ca8eb.png)
-
+CONTRACT ADDRESS (Rinkeby): 0xD68D1E9C24DC3993cB857CA2393c3a6Ece18A070
 
 # 🏄‍♂️ Quick Start
 
